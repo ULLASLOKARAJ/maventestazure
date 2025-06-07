@@ -1,4 +1,4 @@
-package com.dineshonjava;
+package com.ullasonjava;
 
 /**
  * Hello world!

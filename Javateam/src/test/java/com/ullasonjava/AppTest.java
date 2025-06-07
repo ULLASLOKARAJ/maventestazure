@@ -1,4 +1,4 @@
-package com.dineshonjava;
+package com.ullasonjava;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
